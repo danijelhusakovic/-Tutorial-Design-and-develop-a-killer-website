@@ -1,0 +1,12 @@
+VS code extensions:
+prettier
+one monokai theme
+
+down left gear, then settings: 
+default formatter -> Prettier
+format on save -> check it
+auto save -> on focus change
+tab size -> 2
+
+gear -> file icon theme -> Seti
+

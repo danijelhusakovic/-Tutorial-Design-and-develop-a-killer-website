@@ -10,3 +10,5 @@ tab size -> 2
 
 gear -> file icon theme -> Seti
 
+starter and final resources:
+https://github.com/jonasschmedtmann/html-css-course
